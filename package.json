@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "start": "node ./bin/www"
-  }, 
+  },
   "keywords": [],
   "author": "RomelCarlof",
   "license": " MIT",
